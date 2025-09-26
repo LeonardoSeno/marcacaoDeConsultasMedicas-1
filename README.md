@@ -5,6 +5,7 @@
 ### - Eduardo Cicero dos Santos RM: 551415
 ### - Lucas Fernandes Marabini Gaspar RM: 98814
 
+
 # Sistema de Agendamento de Consultas Médicas
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.72.0-blue.svg)](https://reactnative.dev/)
@@ -12,6 +13,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Um aplicativo mobile para agendamento de consultas médicas, desenvolvido com React Native e TypeScript.
+
 
 ## Sobre o Projeto
 
